@@ -1,3 +1,13 @@
+// ==UserScript==
+// @name         Acyd
+// @version      1.0
+// @author       Acydwarp
+// @match        http://agar.io/*
+// @match        https://agar.io/*
+// @run-at       document-start
+// @grant        GM_xmlhttpRequest
+// ==/UserScript==
+
 /** @type {Array} */
 var _0xabe9 = ["script", "facebook-jssdk", "getElementsByTagName", "getElementById", "createElement", "id", "src", "//connect.facebook.net/en_US/sdk.js", "insertBefore", "parentNode", "350px", "0px", "slimScroll", "#scroll", "oncontextmenu", "body", "cssText", "style", "div", "", "Text", "color:#00B8D4;font-family:Ubuntu,Helvetica,Arial,sans-serif;font-size:20px;font-weight:700;line-height:15px; background-color: rgba(0, 0, 0, 0.2); padding: 10px 0 10px 7px;", "innerHTML", "toUpperCase", "appendChild",
     "children", "length", "display", "block", "none", "performance", "now", "bind", "stats", "width:85px;opacity:1;", "fps", "#0ff", "#002", "round", "min", "max", "textContent", "FPS: ", "end", "jQuery", "localStorage", "contentEditable", "unselectable", "off", "focus", "SelectAll", "execCommand", "Copy", "removeChild", ":focus", "is", "#password", "#username", "#nick", ".partyToken", "#teamName", "#customskin", ".color-hex", "#sendMessage", "val", "sendMessage", "emit", '<span style="color:#FFF176;">Your message has not been sent due to spamming!</span>',
